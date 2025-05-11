@@ -7,7 +7,7 @@ https://medium.com/scrapehero/sentiment-analysis-using-svm-338d418e3ff1
 
 ## 🧠 Deskripsi 
 
-Sentiment Analysis merupakan sebuah teknik dalam Natural Language Processing (NLP) yang digunakan untuk mengidentifikasi emosi atau opini seseorang terhadap suatu topik dalam bentuk teks—apakah bersifat positif, negatif, atau netral. NLP sendiri merupakan cabang dari kecerdasan buatan yang memungkinkan mesin memahami bahasa manusia. Pada kali dilakukan sebuah percobaan untuk membuat sebuah model SVM yang berasal dari sumber berikut :
+Sentiment Analysis merupakan sebuah teknik dalam Natural Language Processing (NLP) yang digunakan untuk mengidentifikasi emosi atau opini seseorang terhadap suatu topik dalam bentuk teks apakah bersifat positif, negatif, atau netral. NLP sendiri merupakan cabang dari kecerdasan buatan yang memungkinkan mesin memahami bahasa manusia. Pada kali dilakukan sebuah percobaan untuk membuat sebuah model SVM yang berasal dari sumber berikut :
 https://raw.githubusercontent.com/Vasistareddy/sentiment_analysis/master/data/test.csv
 dengan struktur dataset Kolom Content berisi teks ulasan dan kolom label Berisi label sentimen (pos untuk positif dan neg untuk negatif).
 
